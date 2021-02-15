@@ -1,7 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Hunter Lacefield",
-	"description":"Web app that does free code camp's first few tests in API and Microservics",
+	"description":"Web app that does free code camp's first few tests in API and Microservics. (Managing packages with NPM)",
+	"keywords": ["managing package.json", "API", "microservices", "freecodecamp", "learning backend programming"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
