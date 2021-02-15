@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Hunter Lacefield",
+	"description":"Web app that does free code camp's first few tests in API and Microservics",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
