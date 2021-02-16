@@ -3,9 +3,11 @@
 	"author": "Hunter Lacefield",
 	"description":"Web app that does free code camp's first few tests in API and Microservics. (Managing packages with NPM)",
 	"keywords": ["managing package.json", "API", "microservices", "freecodecamp", "learning backend programming"],
-	"version": "1.2.0",
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -17,6 +19,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"license": "MIT"
+	}
+	
 }
