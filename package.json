@@ -1,8 +1,14 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Hunter Lacefield",
-	"description":"Web app that does free code camp's first few tests in API and Microservics. (Managing packages with NPM)",
-	"keywords": ["managing package.json", "API", "microservices", "freecodecamp", "learning backend programming"],
+	"description": "Web app that does free code camp's first few tests in API and Microservics. (Managing packages with NPM)",
+	"keywords": [
+		"managing package.json",
+		"API",
+		"microservices",
+		"freecodecamp",
+		"learning backend programming"
+	],
 	"license": "MIT",
 	"version": "1.0.0",
 	"dependencies": {
@@ -20,5 +26,4 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
-	
 }
